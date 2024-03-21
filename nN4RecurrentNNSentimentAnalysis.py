@@ -1,4 +1,5 @@
 ###############     Recurrent Neural Network      ################
+###############     Sentiment Analysis      ################
 from keras.datasets import imdb
 from keras.preprocessing import sequence
 import tensorflow as tf
